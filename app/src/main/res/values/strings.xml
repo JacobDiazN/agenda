@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">agenda</string>
+    <string name="txt_menu">CRUD</string>
+    <string name="txt_menu_registrar">CREATE</string>
+    <string name="txt_menu_mostrar">READ</string>
+    <string name="txt_menu_modificar">UPDATE</string>
+    <string name="txt_menu_borrar">DELETE</string>
+    <string name="txt_id">ID</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_telefono">Teléfono</string>
+    <string name="txt_email">E-Mail</string>
+    <string name="boton_create">Insertar Registro</string>
+    <string name="boton_read">Mostrar Registro</string>
+    <string name="boton_update">Modificar Registro</string>
+    <string name="boton_delete">Borrar Registro</string>
+    <string name="boton_salir">Salir</string>
+    <string name="boton_regresar">Regresar</string>
+    <string name="boton_registrar">Registrar</string>
+    <string name="boton_buscar">Buscar</string>
+    <string name="boton_modificar">Modificar</string>
+    <string name="boton_eliminar">Eliminar</string>
+
+</resources>
